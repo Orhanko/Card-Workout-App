@@ -10,4 +10,4 @@
 
 ### App preview
 
-<img src="https://github.com/Orhanko/Card-Workout-App/assets/95143599/37579424-63b5-42d7-8361-1a950b28152e)https://github.com/Orhanko/Card-Workout-App/assets/95143599/37579424-63b5-42d7-8361-1a950b28152e" width="40%" height="40%" />
+<img src="https://github.com/Orhanko/Card-Workout-App/assets/95143599/37579424-63b5-42d7-8361-1a950b28152e)https://github.com/Orhanko/Card-Workout-App/assets/95143599/37579424-63b5-42d7-8361-1a950b28152e" width="40%" height="40%"/>
