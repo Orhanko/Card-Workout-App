@@ -1,5 +1,8 @@
 # Card-Workout-App
 ### My first simple iOS Application wrote completely programmatically using UIKit.
+
+- The goal of the application is to give the user the opportunity to set a training exercise based on a random card selection.
+
 > Learned how to make custom UIButton class, with configuration, UIImages within it and styling, and implement it on several buttons in code.
 
 > Learned how to use Auto Layout when customizing certain Views (`UIImageView`, `Label`, `UIButton`) on ViewControllers
